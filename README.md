@@ -10,7 +10,7 @@ created visualizations of rideshare data for PyBer to help improve access to rid
 
    Using the Pandas groupby() function with the count() and sum() methods on PyBer DataFrame columns, got the total number of rides, total number of drivers, and the total fares for each city type. Then, calculated the average fare per ride and average fare per driver for each city type. Finally, added this data to a new DataFrame, then formatted the columns.
    
-    <img width="1043" alt="Screen Shot 2022-01-28 at 5 27 41 PM" src="https://user-images.githubusercontent.com/72629108/151638918-1f46c3cc-02c3-4a66-8424-bc5eb6f1a93f.png">
+   <img width="1043" alt="Screen Shot 2022-01-28 at 5 27 41 PM" src="https://user-images.githubusercontent.com/72629108/151638918-1f46c3cc-02c3-4a66-8424-bc5eb6f1a93f.png">
 
 
 ##Results
