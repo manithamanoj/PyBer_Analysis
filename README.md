@@ -31,11 +31,11 @@ created visualizations of rideshare data for PyBer to help improve access to rid
 
 # Summary
 
-   Despite less total rides, total drivers, and total fare the average fare per ride and driver is high in rural areas because the miles travelled is probably more per ride. We don’t have the data to support this assumption. Our suggestion is PyBer should work to include miles travelled per ride data as part of the data collection process.
+  *  Despite less total rides, total drivers, and total fare the average fare per ride and driver is high in rural areas because the miles travelled is probably more per ride. We don’t have the data to support this assumption. Our suggestion is PyBer should work to include miles travelled per ride data as part of the data collection process.
    
-   Average fare per driver in urban areas is less so this may lead to driver attrition. Also, in urban areas the total number of rides is less than the number of drivers and the drivers are not getting enough jobs.  So Pyber must think about adopting new strategies like Ads, more offers to customers to increase total number of rides.  
+  *   Average fare per driver in urban areas is less so this may lead to driver attrition. Also, in urban areas the total number of rides is less than the number of drivers and the drivers are not getting enough jobs.  So Pyber must think about adopting new strategies like Ads, more offers to customers to increase total number of rides.  
    
-   The kind of population in each city type also affects the number of rides. So Pyber should consider include those details while collecting data in future for analyzing.
+  *  The kind of population in each city type also affects the number of rides. So Pyber should consider include those details while collecting data in future for analyzing.
 
 
 
