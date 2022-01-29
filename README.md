@@ -13,10 +13,12 @@ created visualizations of rideshare data for PyBer to help improve access to rid
    <img width="1043" alt="Screen Shot 2022-01-28 at 5 27 41 PM" src="https://user-images.githubusercontent.com/72629108/151638918-1f46c3cc-02c3-4a66-8424-bc5eb6f1a93f.png">
 
 
-## Results
+### Results
    
    From the table we understood that Rural areas have the least total rides, total drivers, total fares but have the highest average fare per ride and average fare per driver. But Urban areas have the highest total rides, total drivers, total fares but have the least average fare per ride and average fare per driver.For suburban areas, all the values lies in between rural and urban areas.
 
+   
+   
    Using your Pandas skills and two new functions, pivot() and resample(), created a multiple-line graph that shows the total fares for each week by city type. Finally using the object-oriented interface method and the df.plot() method, as well as the Matplotlib "fivethirtyeight" graph style we plotted multiple-line chart 
   Code snippet
   
@@ -26,7 +28,7 @@ created visualizations of rideshare data for PyBer to help improve access to rid
   ![PyBer_fare_summary](https://user-images.githubusercontent.com/72629108/151638744-edb186b4-9cd1-4217-9d71-dbd83124697e.png)
  
 
-## Results
+### Results
    
    We can see a hike in the fare for all the three city types during the last week of February.
 
