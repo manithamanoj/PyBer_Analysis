@@ -3,12 +3,12 @@ Analyze all the rideshare data
 
 # Introduction
    
-     In this challenge we performed an exploratory analysis and
+  In this challenge we performed an exploratory analysis and
 created visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods.For exploratory analysis we used our Python skills and knowledge of Pandas, to create a summary DataFrame of the ride-sharing data by city type. Then, by means of Pandas and Matplotlib, we created a multiple-line graph that shows the total weekly fares for each city type.
 
 # Analysis
 
-      Using the Pandas groupby() function with the count() and sum() methods on PyBer DataFrame columns, got the total number of rides, total number of drivers, and the total fares for each city type. Then, calculated the average fare per ride and average fare per driver for each city type. Finally, added this data to a new DataFrame, then formatted the columns.
+   Using the Pandas groupby() function with the count() and sum() methods on PyBer DataFrame columns, got the total number of rides, total number of drivers, and the total fares for each city type. Then, calculated the average fare per ride and average fare per driver for each city type. Finally, added this data to a new DataFrame, then formatted the columns.
    
    <img width="1043" alt="Screen Shot 2022-01-28 at 5 27 41 PM" src="https://user-images.githubusercontent.com/72629108/151638918-1f46c3cc-02c3-4a66-8424-bc5eb6f1a93f.png">
 
